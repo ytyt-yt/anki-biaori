@@ -15,4 +15,4 @@ Front | Back
 
 ### Code
 
-使用 [furigana](https://github.com/MikimotoH/furigana) 生成注音假名，并手动更改了标注错误的地方（[64efd3b](64efd3b)）。如发现仍有错误，欢迎 issue / PR。
+使用 [furigana](https://github.com/MikimotoH/furigana) 生成注音假名，并手动更改了标注错误的地方（[64efd3b](https://github.com/ytyt-yt/anki-biaori/commit/64efd3b8b1ff0b50f9a5946c5222427446c1c421)）。如发现仍有错误，欢迎 issue / PR。
