@@ -1,2 +1,2 @@
 data/
-output/*.mp3
+output/**/*.mp3

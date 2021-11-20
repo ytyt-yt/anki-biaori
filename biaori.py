@@ -95,7 +95,8 @@ def process_basic(book, unit, lesson, key):
                     'section': sec,
                     'tags': f'book{book} book{book}-lesson{lesson:02d}'
                 })
-                export_audo_clip(audio_fn, f'./output/{clip_fn}', start, end)
+                export_audo_clip(
+                        audio_fn, f'./output/audio/{clip_fn}', start, end)
 
                 txt_buff_cn.clear()
                 txt_buff_jp.clear()
