@@ -1,0 +1,42 @@
+.mobile .card {
+ margin: 20px;
+}
+
+.mobile #content {
+ margin: 0;
+}
+
+.card {
+ font-family: 'PingFang SC', 'Noto Sans CJK SC', sans-serif;
+ font-size: 20px;
+ text-align: center;
+ color: black;
+ background-color: white;
+}
+
+.jp {
+ font-family: 'Hiragino Sans', 'Noto Sans CJK JP', sans-serif;
+}
+
+p {
+ margin: 36px 0;
+}
+
+.front-cn {
+ padding: 18px;
+ border: 1px solid black;
+}
+
+.nightMode .front-cn {
+ border: 1px solid white;
+}
+
+.replay-button svg {
+ width: 20px;
+ height: 20px;
+}
+
+.small {
+ color: gray;
+ font-size: 16px;
+}
