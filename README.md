@@ -1,10 +1,12 @@
 # anki-biaori
 
-生成《新标准日本语》初级基本课文 Anki 卡组。
+《新标准日本语》初级基本课文 Anki 卡组。
 
 卡片正面为中文翻译，背面为日文课文并带日语发音。
 
-下载：[biaori-book1-basic.apkg](https://github.com/ytyt-yt/anki-biaori/releases/download/v1.0.0/biaori-book1-basic.apkg)
+[AnkiWeb 页面](https://ankiweb.net/shared/info/662072724)
+
+或下载：[biaori-book1-basic.apkg](https://github.com/ytyt-yt/anki-biaori/releases/download/v1.0.0/biaori-book1-basic.apkg)
 
 ### Pre<ruby>view<rt>剧透</rt></ruby>
 
