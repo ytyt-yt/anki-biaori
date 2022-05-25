@@ -57,11 +57,11 @@
 0057	わたしは 小野[おの] さんにお 土産[みやげ] をあげます。	我送给小野女士礼物。	[sound:book1-lesson08-basic-2.mp3]	8	2	book1 book1-lesson08
 0058	わたしは 小野[おの] さんに 辞書[じしょ] をもらいました。	我从小野女士那儿得到一本词典。／小野女士给了我一本词典。	[sound:book1-lesson08-basic-3.mp3]	8	3	book1 book1-lesson08
 0059	 李[り] さんは 明日[あした]  長島[ながしま] さんに 会[あ] います。	小李明天见长岛先生。	[sound:book1-lesson08-basic-4.mp3]	8	4	book1 book1-lesson08
-0060	 甲： 昨日[きのう] ， 母[はは] に 誕生[たんじょう]  日[び] のプレゼントを 送[おく] りました。<br> 乙： 何[なん] で 送[おく] りましたか。<br> 甲： 航空[こうくう]  便[びん] で 送[おく] りました。	昨天(我)给妈妈寄了生日礼物。<br>用什么寄的？<br>用航空邮件寄的。	[sound:book1-lesson08-basic-A.mp3]	8	A	book1 book1-lesson08
+0060	 甲： 昨日[きのう] ， 母[はは] に 誕生[たんじょう]  日[び] のプレゼントを 送[おく] りました。<br> 乙： 何[なに] で 送[おく] りましたか。<br> 甲： 航空[こうくう]  便[びん] で 送[おく] りました。	昨天(我)给妈妈寄了生日礼物。<br>用什么寄的？<br>用航空邮件寄的。	[sound:book1-lesson08-basic-A.mp3]	8	A	book1 book1-lesson08
 0061	 甲：その 映画[えいが] のチケットをだれにあげますか。<br> 乙： 李[り] さんにあげます。	那张电影票给谁？<br>给小李。	[sound:book1-lesson08-basic-B.mp3]	8	B	book1 book1-lesson08
 0062	 甲：だれにそのパンフレットをもらいましたか。<br> 乙： 長島[ながしま] さんにもらいました。	(你)从谁那儿得到那个小册子的？<br>从长岛先生那儿。	[sound:book1-lesson08-basic-C.mp3]	8	C	book1 book1-lesson08
 0063	 甲：すみません， 李[り] さんはいますか。<br> 乙：もう 帰[かえ] りましたよ。	请问，小李在吗？<br>已经回去了。	[sound:book1-lesson08-basic-D.mp3]	8	D	book1 book1-lesson08
-0064	 四川[しせん]  料理[りょうり] は 辛[つら] いです。	四川菜很辣。	[sound:book1-lesson09-basic-1.mp3]	9	1	book1 book1-lesson09
+0064	 四川[しせん]  料理[りょうり] は 辛[から] いです。	四川菜很辣。	[sound:book1-lesson09-basic-1.mp3]	9	1	book1 book1-lesson09
 0065	このスープはあまり 熱[あつ] くないです。	这个汤不太热。	[sound:book1-lesson09-basic-2.mp3]	9	2	book1 book1-lesson09
 0066	 旅行[りょこう] はとても 楽[たの] しかったです。	旅行很愉快。	[sound:book1-lesson09-basic-3.mp3]	9	3	book1 book1-lesson09
 0067	 中国[ちゅうごく] は 広[ひろ] い 国[くに] です。	中国是个幅员辽阔的国家。	[sound:book1-lesson09-basic-4.mp3]	9	4	book1 book1-lesson09
@@ -69,7 +69,7 @@
 0069	 甲： 天安門[てんあんもん] へ 行[い] きましたか。<br> 乙：はい。とても 大[おお] きい 建物[たてもの] ですね。	(你)去天安门了吗？<br>去了。(那)是个非常雄伟的建筑啊。	[sound:book1-lesson09-basic-B.mp3]	9	B	book1 book1-lesson09
 0070	 甲： 万里[ばんり] の 長城[ちょうじょう] は 北京[ぺきん] から 遠[とお] いですか。<br> 乙：いいえ，あまり 遠[とお] くないです。	长城离北京市内远吗？<br>不，不太远。	[sound:book1-lesson09-basic-C.mp3]	9	C	book1 book1-lesson09
 0071	 甲： 北京[ぺきん] ダックは 食[た] べましたか。<br> 乙：はい， 食[た] べました。とてもおいしかったですよ。	(你)吃北京烤鸭了吗？<br>吃了。挺好吃的。	[sound:book1-lesson09-basic-D.mp3]	9	D	book1 book1-lesson09
-0072	 京都[きょうと] の 紅葉[こうよう] は 有名[ゆうめい] です。	京都的红叶很有名。	[sound:book1-lesson10-basic-1.mp3]	10	1	book1 book1-lesson10
+0072	 京都[きょうと] の 紅葉[もみじ] は 有名[ゆうめい] です。	京都的红叶很有名。	[sound:book1-lesson10-basic-1.mp3]	10	1	book1 book1-lesson10
 0073	この 通[とお] りはにぎやかではありません。	这条街不热闹。	[sound:book1-lesson10-basic-2.mp3]	10	2	book1 book1-lesson10
 0074	 奈良[なら] は 静[しず] かな 町[まち] です。	 奈良是个很安静的城市。	[sound:book1-lesson10-basic-3.mp3]	10	3	book1 book1-lesson10
 0075	 昨日[きのう] は 日曜日[にちようび] でした。	昨天是星期日。	[sound:book1-lesson10-basic-4.mp3]	10	4	book1 book1-lesson10
@@ -101,7 +101,7 @@
 0101	 甲：よく 映画[えいが] を 見[み] ますか。<br> 乙：ええ，１か 月[げつ] に２ 回[かい] ぐらい 見[み] ます。	(你)经常看电影吗？<br>是。1个月看两次左右。	[sound:book1-lesson13-basic-B.mp3]	13	B	book1 book1-lesson13
 0102	 甲： 家[いえ] から 会社[かいしゃ] までどのぐらいかかりますか。<br> 乙： 電車[でんしゃ] で１ 時間[じかん] ぐらいかかります。	从你家到公司需要多少时间？<br>乘电车需要1小时左右。	[sound:book1-lesson13-basic-C.mp3]	13	C	book1 book1-lesson13
 0103	 甲： 昨日[きのう]  何[なに] をしましたか。<br> 乙： 新宿[しんじゅく] へ 映画[えいが] を 見[み] に 行[い] きました。	(你)昨天干什么了？<br>去新宿看了电影。	[sound:book1-lesson13-basic-D.mp3]	13	D	book1 book1-lesson13
-0104	 昨日[きのう] デパートへ 行[い] って， 買[か] いしました。	昨天去商场买东西了。	[sound:book1-lesson14-basic-1.mp3]	14	1	book1 book1-lesson14
+0104	 昨日[きのう] デパートへ 行[い] って， 買[か] い物[もの] しました。	昨天去商场买东西了。	[sound:book1-lesson14-basic-1.mp3]	14	1	book1 book1-lesson14
 0105	 李[り] さんは 毎晩[まいばん] ラジオを 聞[き] いてから 寝[ね] ます。	小李每晚听了收音机后睡觉。	[sound:book1-lesson14-basic-2.mp3]	14	2	book1 book1-lesson14
 0106	ここに 住所[じゅうしょ] と 名前[なまえ] を 書[か] いてください。	请在这里填写(您的)住址和姓名。	[sound:book1-lesson14-basic-3.mp3]	14	3	book1 book1-lesson14
 0107	 李[り] さんは 毎朝[まいあさ] ７ 時[じ] に 家[いえ] を 出[で] ます。	小李每天早晨7点离开家。	[sound:book1-lesson14-basic-4.mp3]	14	4	book1 book1-lesson14
@@ -314,7 +314,7 @@
 0314	 馬[ば] さんは, 今[こん] , 空港[くうこう] に 着[つ] いたところです。	小马现在刚刚到达机场。	[sound:book1-lesson40-basic-3.mp3]	40	3	book1 book1-lesson40
 0315	このモノレールは 去年[きょねん]  開通[かいつう] したばかりです。	这条单轨铁路是去年刚开通的。	[sound:book1-lesson40-basic-4.mp3]	40	4	book1 book1-lesson40
 0316	 甲：もしもし， 森[もり] さん， 今[いま] どこですか。<br> 乙：これから 家[いえ] を 出[で] るところです。	喂！森先生，(您)现在在哪里？<br>(我)正要出门。	[sound:book1-lesson40-basic-A.mp3]	40	A	book1 book1-lesson40
-0317	 甲： 森[もり] さん， 上海[しゃんはい]  行[い] きの 最終[さいしゅう]  便[びん] は 何時[いつ] か 分[わ] かりましたか。<br> 乙： 今[いま]  調[しら] べているところです。 少[すこ] し 待[ま] ってください。	森先生，飞往上海的最晚航班是几点，(您)搞清楚了吗？<br>现在正在查。稍等一会儿。	[sound:book1-lesson40-basic-B.mp3]	40	B	book1 book1-lesson40
+0317	 甲： 森[もり] さん， 上海[しゃんはい]  行[い] きの 最終[さいしゅう]  便[びん] は 何[なん]  時[じ] か 分[わ] かりましたか。<br> 乙： 今[いま]  調[しら] べているところです。 少[すこ] し 待[ま] ってください。	森先生，飞往上海的最晚航班是几点，(您)搞清楚了吗？<br>现在正在查。稍等一会儿。	[sound:book1-lesson40-basic-B.mp3]	40	B	book1 book1-lesson40
 0318	 甲： 来月[らいげつ] ， 清水[しみず] さんが 結婚[けっこん] するのを 知[し] っていますか。<br> 乙：ええ，たった 今[いま] た 聞[き] いたところです。	(你)知道下个月清水先生要结婚吗？<br>知道。刚刚听说的。	[sound:book1-lesson40-basic-C.mp3]	40	C	book1 book1-lesson40
 0319	 甲： 李[り] さん，この 本[ほん] はもう 読[よ] み 終[お] わりましたか。<br> 乙：いいえ， 昨日[きのう]  読[よ] み 始[はじ] めたばかりです。	小李，这本书看完了吗？<br>没有。昨天才开始看。	[sound:book1-lesson40-basic-D.mp3]	40	D	book1 book1-lesson40
 0320	 李[り] さんは 部長[ぶちょう] にほめられました。	小李受到部长的表扬。	[sound:book1-lesson41-basic-1.mp3]	41	1	book1 book1-lesson41
