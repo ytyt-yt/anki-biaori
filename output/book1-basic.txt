@@ -113,7 +113,7 @@
 0113	ここで 写真[しゃしん] を 撮[と] ってもいいですか。	这儿可以拍照吗？	[sound:book1-lesson15-basic-2.mp3]	15	2	book1 book1-lesson15
 0114	 飛行機[ひこうき] の 中[なか] でタバコを 吸[す] ってはいけません。	飞机上不能吸烟。	[sound:book1-lesson15-basic-3.mp3]	15	3	book1 book1-lesson15
 0115	 日曜日[にちようび] ， 小野[おの] さんは 公園[こうえん] でボートに 乗[の] りました。	星期天，小野女士在公园里划了船。	[sound:book1-lesson15-basic-4.mp3]	15	4	book1 book1-lesson15
-0116	 甲：もしもし， 森[もり] さん？ 今[いま] どこですか。<br> 乙： 今[こん]  市役所[しやくしょ] の 前[まえ] を 歩[ある] いています。	喂，是森先生吗？(你)现在在哪儿？<br>我正从市政府前面走过。/在市政府前面。	[sound:book1-lesson15-basic-A.mp3]	15	A	book1 book1-lesson15
+0116	 甲：もしもし， 森[もり] さん？ 今[いま] どこですか。<br> 乙： 今[いま]  市役所[しやくしょ] の 前[まえ] を 歩[ある] いています。	喂，是森先生吗？(你)现在在哪儿？<br>我正从市政府前面走过。/在市政府前面。	[sound:book1-lesson15-basic-A.mp3]	15	A	book1 book1-lesson15
 0117	 甲：すみません，この 辞書[じしょ] を 借[か] りてもいいですか。<br> 乙：いえ，ちょっと…。 今[いま]  使[つか] っています。	请问，(我)可以借这本词典吗？<br>嗯……我正在用。	[sound:book1-lesson15-basic-B.mp3]	15	B	book1 book1-lesson15
 0118	 甲：すみません，ここに 座[すわ] ってもいいですか。<br> 乙：ええ，どうぞ。	对不起，(我)可以坐这儿吗？<br>可以。请坐。	[sound:book1-lesson15-basic-C.mp3]	15	C	book1 book1-lesson15
 0119	 甲：あっ，ここで 携帯[けいたい]  電話[でんわ] を 使[つか] ってはいけませんよ。<br> 乙：すみません。これから 気[き] をつけます。	哎，这儿不让用手机。<br>对不起。(我)以后注意。	[sound:book1-lesson15-basic-D.mp3]	15	D	book1 book1-lesson15
@@ -130,14 +130,14 @@
 0130	いっしょにお 茶[ちゃ] を 飲[の] みませんか。	一起喝茶好吗？	[sound:book1-lesson17-basic-3.mp3]	17	3	book1 book1-lesson17
 0131	ちょっと 休[やす] みましょう。	休息一下吧！	[sound:book1-lesson17-basic-4.mp3]	17	4	book1 book1-lesson17
 0132	 甲： 今[いま]  何[なに] がいちばん 欲[ほ] しいですか。<br> 乙： 安[やす] い 車[くるま] が 欲[ほ] しいです。	(你)现在最想要什么？<br>想要辆便宜点儿的车。	[sound:book1-lesson17-basic-A.mp3]	17	A	book1 book1-lesson17
-0133	 甲： 今日[きょう] デパートへ 買[か] いに 行[い] きます。 李[り] さんもいっしょにどうですか。<br> 乙：はい，ぜひ 行[い] きたいです。	今天(我)去百货商店买东西。 小李一起去怎么样？<br>好，(我)一定去。	[sound:book1-lesson17-basic-B.mp3]	17	B	book1 book1-lesson17
+0133	 甲： 今日[きょう] デパートへ 買[か] い物[もの] に 行[い] きます。 李[り] さんもいっしょにどうですか。<br> 乙：はい，ぜひ 行[い] きたいです。	今天(我)去百货商店买东西。 小李一起去怎么样？<br>好，(我)一定去。	[sound:book1-lesson17-basic-B.mp3]	17	B	book1 book1-lesson17
 0134	 甲： 李[り] さん， 何[なに] を 食[た] べたいですか。<br> 乙： 何[なに] でもいいです。	小李，(你)想吃什么？<br>什么都行。	[sound:book1-lesson17-basic-C.mp3]	17	C	book1 book1-lesson17
 0135	 甲： 土曜日[どようび] の 午後[ごご] ，コンサートへ 行[い] きませんか。<br> 乙：いいですね。 行[い] きましょう。	星期六下午去听音乐会好吗？<br>好啊，去吧。	[sound:book1-lesson17-basic-D.mp3]	17	D	book1 book1-lesson17
 0136	 携帯[けいたい]  電話[でんわ] はとても 小[ちい] さくなりました。	手机变小了。	[sound:book1-lesson18-basic-1.mp3]	18	1	book1 book1-lesson18
 0137	テレビの 音[おと] を 大[おお] きくします。	把电视机的声音开大一点儿。	[sound:book1-lesson18-basic-2.mp3]	18	2	book1 book1-lesson18
 0138	 息子[むすこ] は 医者[いしゃ] になりました。	儿子当医生了。	[sound:book1-lesson18-basic-3.mp3]	18	3	book1 book1-lesson18
 0139	 部屋[へや] をきれいにしてください。	请把房间打扫干净。	[sound:book1-lesson18-basic-4.mp3]	18	4	book1 book1-lesson18
-0140	 甲： 風邪[かぜ] はどうですか。<br> 乙：ゆうべ 薬[やく] を 飲[の] みましたが，まだよくなりません。	感冒怎么样了？<br>昨晚吃了点儿药，可还不见好。	[sound:book1-lesson18-basic-A.mp3]	18	A	book1 book1-lesson18
+0140	 甲： 風邪[かぜ] はどうですか。<br> 乙：ゆうべ 薬[くすり] を 飲[の] みましたが，まだよくなりません。	感冒怎么样了？<br>昨晚吃了点儿药，可还不见好。	[sound:book1-lesson18-basic-A.mp3]	18	A	book1 book1-lesson18
 0141	 甲： 旅行[りょこう] の 荷物[にもつ] は 軽[かる] いほうがいいですよ。<br> 乙：はい。できるだけ 軽[かる] くします。	去旅行(的时候)行李还是轻点儿好。<br>是的。(我)尽量弄轻点儿。／(我)尽量少带点儿。	[sound:book1-lesson18-basic-B.mp3]	18	B	book1 book1-lesson18
 0142	 甲：お 嬢[じょう] さんはおいくつですか。<br> 乙： 今年[ことし] ７ 歳[さい] になりました。	您女儿多大了？<br>今年７岁了。	[sound:book1-lesson18-basic-C.mp3]	18	C	book1 book1-lesson18
 0143	 甲：あのう，ちょっとうるさいですよ。<br> 乙：あっ，すみません。 静[しず] かにします。	喂……(太)吵了。<br>噢，对不起。〈我轻一点儿。／我注意。〉	[sound:book1-lesson18-basic-D.mp3]	18	D	book1 book1-lesson18
