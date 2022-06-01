@@ -131,7 +131,7 @@
 0131	ちょっと 休[やす] みましょう。	休息一下吧！	[sound:book1-lesson17-basic-4.mp3]	17	4	book1 book1-lesson17
 0132	 甲： 今[いま]  何[なに] がいちばん 欲[ほ] しいですか。<br> 乙： 安[やす] い 車[くるま] が 欲[ほ] しいです。	(你)现在最想要什么？<br>想要辆便宜点儿的车。	[sound:book1-lesson17-basic-A.mp3]	17	A	book1 book1-lesson17
 0133	 甲： 今日[きょう] デパートへ 買[か] い物[もの] に 行[い] きます。 李[り] さんもいっしょにどうですか。<br> 乙：はい，ぜひ 行[い] きたいです。	今天(我)去百货商店买东西。 小李一起去怎么样？<br>好，(我)一定去。	[sound:book1-lesson17-basic-B.mp3]	17	B	book1 book1-lesson17
-0134	 甲： 李[り] さん， 何[なに] を 食[た] べたいですか。<br> 乙： 何[なに] でもいいです。	小李，(你)想吃什么？<br>什么都行。	[sound:book1-lesson17-basic-C.mp3]	17	C	book1 book1-lesson17
+0134	 甲： 李[り] さん， 何[なに] を 食[た] べたいですか。<br> 乙： 何[なん] でもいいです。	小李，(你)想吃什么？<br>什么都行。	[sound:book1-lesson17-basic-C.mp3]	17	C	book1 book1-lesson17
 0135	 甲： 土曜日[どようび] の 午後[ごご] ，コンサートへ 行[い] きませんか。<br> 乙：いいですね。 行[い] きましょう。	星期六下午去听音乐会好吗？<br>好啊，去吧。	[sound:book1-lesson17-basic-D.mp3]	17	D	book1 book1-lesson17
 0136	 携帯[けいたい]  電話[でんわ] はとても 小[ちい] さくなりました。	手机变小了。	[sound:book1-lesson18-basic-1.mp3]	18	1	book1 book1-lesson18
 0137	テレビの 音[おと] を 大[おお] きくします。	把电视机的声音开大一点儿。	[sound:book1-lesson18-basic-2.mp3]	18	2	book1 book1-lesson18
